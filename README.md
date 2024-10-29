@@ -1,4 +1,4 @@
-# Frontend built using react,fetching data frm axios api
+# Frontend built using react,fetching data from axios api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
